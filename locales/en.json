@@ -1,0 +1,93 @@
+{
+  "site_title": "EU AI Act Guide",
+  "site_description": "Understanding Europe's comprehensive AI regulation",
+  "nav_overview": "Overview",
+  "nav_key_provisions": "Key Provisions",
+  "nav_compliance": "Compliance",
+  "nav_resources": "Resources",
+  "nav_contribute": "Contribute",
+  
+  "overview_title": "Overview of the EU AI Act",
+  "overview_description": "The European Union's Artificial Intelligence Act is the world's first comprehensive legal framework for AI, aiming to promote trustworthy AI while protecting fundamental rights.",
+  
+  "key_provisions_title": "Key Provisions",
+  "key_provisions_description": "Learn about the risk-based approach, prohibited practices, and requirements for high-risk AI systems.",
+  
+  "compliance_title": "Compliance Guidelines",
+  "compliance_description": "Understand what your organization needs to do to comply with the EU AI Act.",
+  
+  "resources_title": "Resources",
+  "resources_description": "Access tools, checklists, and official documentation to help navigate the regulatory landscape.",
+  
+  "footer_copyright": "© 2025 EU AI Act Guide",
+  "footer_repository": "GitHub Repository",
+  
+  "user_tab_end_user": "For End Users",
+  "user_tab_producer": "For AI Producers",
+  
+  "risk_assessment_title": "AI Risk Assessment Tool",
+  "risk_assessment_description": "Use this interactive tool to assess the risk level of your AI system according to the EU AI Act.",
+  
+  "risk_unacceptable_title": "Unacceptable Risk",
+  "risk_unacceptable_description": "AI systems that pose a clear threat to safety, livelihoods, and rights of people.",
+  
+  "risk_high_title": "High Risk",
+  "risk_high_description": "AI systems that could harm health, safety, or fundamental rights.",
+  
+  "risk_limited_title": "Limited Risk",
+  "risk_limited_description": "AI systems with specific transparency obligations.",
+  
+  "risk_minimal_title": "Minimal Risk",
+  "risk_minimal_description": "All other AI systems that can be developed and used freely.",
+  
+  "learn_more_button": "Learn More",
+  
+  "doc_official_text_title": "Official EU AI Act Text",
+  "doc_official_text_description": "Access the complete legal text of the EU AI Act.",
+  "doc_official_text_button": "View Document",
+  
+  "doc_compliance_checklist_title": "Compliance Checklist",
+  "doc_compliance_checklist_description": "Step-by-step guide to ensure your organization is compliant with the EU AI Act.",
+  "doc_compliance_checklist_button": "Download Checklist",
+  
+  "doc_timeline_title": "Implementation Timeline",
+  "doc_timeline_description": "Key dates and deadlines for the implementation of the EU AI Act.",
+  "doc_timeline_button": "View Timeline",
+  
+  "doc_templates_title": "Technical Documentation Templates",
+  "doc_templates_description": "Templates for the technical documentation required for high-risk AI systems.",
+  "doc_templates_button": "Access Templates",
+  
+  "timeline_title": "Implementation Timeline",
+  
+  "timeline_item_1_title": "EU AI Act Enters Into Force",
+  "timeline_item_1_description": "The regulation officially becomes law across the European Union on August 1, 2024.",
+  
+  "timeline_item_2_title": "First Prohibitions Applicable",
+  "timeline_item_2_description": "The first set of prohibitions on AI systems comes into effect on February 2, 2025.",
+  
+  "timeline_item_3_title": "AI Office Establishment",
+  "timeline_item_3_description": "The EU AI Office will be established to oversee implementation.",
+  
+  "timeline_item_4_title": "Full Implementation",
+  "timeline_item_4_description": "Most provisions of the EU AI Act become fully applicable on August 2, 2026.",
+  
+  "contribute_title": "Contribute to the EU AI Act Guide",
+  "contribute_description": "Help improve this resource by contributing your expertise, translations, or technical skills.",
+  
+  "contribute_code_title": "Code Contributions",
+  "contribute_code_description": "Help improve the website's functionality, accessibility, and user experience.",
+  "contribute_code_button": "View on GitHub",
+  
+  "contribute_content_title": "Content Contributions",
+  "contribute_content_description": "Help ensure the information about the EU AI Act is accurate, comprehensive, and up-to-date.",
+  "contribute_content_button": "Submit Content",
+  
+  "contribute_translation_title": "Translation Contributions",
+  "contribute_translation_description": "Help make the EU AI Act Guide accessible in more languages.",
+  "contribute_translation_button": "Translation Guide",
+  
+  "contribute_documentation_title": "Documentation Contributions",
+  "contribute_documentation_description": "Help improve project documentation and guides.",
+  "contribute_documentation_button": "Documentation Guide"
+}

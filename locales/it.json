@@ -1,0 +1,93 @@
+{
+  "site_title": "Guida alla Legge UE sull'IA",
+  "site_description": "Comprendere la regolamentazione europea completa sull'intelligenza artificiale",
+  "nav_overview": "Panoramica",
+  "nav_key_provisions": "Disposizioni Chiave",
+  "nav_compliance": "Conformità",
+  "nav_resources": "Risorse",
+  "nav_contribute": "Contribuire",
+  
+  "overview_title": "Panoramica della Legge UE sull'IA",
+  "overview_description": "La Legge sull'Intelligenza Artificiale dell'Unione Europea è il primo quadro giuridico completo al mondo per l'IA, che mira a promuovere un'IA affidabile proteggendo i diritti fondamentali.",
+  
+  "key_provisions_title": "Disposizioni Chiave",
+  "key_provisions_description": "Scopri l'approccio basato sul rischio, le pratiche vietate e i requisiti per i sistemi di IA ad alto rischio.",
+  
+  "compliance_title": "Linee Guida per la Conformità",
+  "compliance_description": "Comprendi cosa deve fare la tua organizzazione per conformarsi alla Legge UE sull'IA.",
+  
+  "resources_title": "Risorse",
+  "resources_description": "Accedi a strumenti, liste di controllo e documentazione ufficiale per navigare nel panorama normativo.",
+  
+  "footer_copyright": "© 2025 Guida alla Legge UE sull'IA",
+  "footer_repository": "Repository GitHub",
+  
+  "user_tab_end_user": "Per Utenti Finali",
+  "user_tab_producer": "Per Produttori di IA",
+  
+  "risk_assessment_title": "Strumento di Valutazione del Rischio IA",
+  "risk_assessment_description": "Utilizza questo strumento interattivo per valutare il livello di rischio del tuo sistema di IA secondo la Legge UE sull'IA.",
+  
+  "risk_unacceptable_title": "Rischio Inaccettabile",
+  "risk_unacceptable_description": "Sistemi di IA che rappresentano una chiara minaccia per la sicurezza, i mezzi di sussistenza e i diritti delle persone.",
+  
+  "risk_high_title": "Alto Rischio",
+  "risk_high_description": "Sistemi di IA che potrebbero danneggiare la salute, la sicurezza o i diritti fondamentali.",
+  
+  "risk_limited_title": "Rischio Limitato",
+  "risk_limited_description": "Sistemi di IA con obblighi specifici di trasparenza.",
+  
+  "risk_minimal_title": "Rischio Minimo",
+  "risk_minimal_description": "Tutti gli altri sistemi di IA che possono essere sviluppati e utilizzati liberamente.",
+  
+  "learn_more_button": "Scopri di Più",
+  
+  "doc_official_text_title": "Testo Ufficiale della Legge UE sull'IA",
+  "doc_official_text_description": "Accedi al testo legale completo della Legge UE sull'IA.",
+  "doc_official_text_button": "Visualizza Documento",
+  
+  "doc_compliance_checklist_title": "Lista di Controllo per la Conformità",
+  "doc_compliance_checklist_description": "Guida passo-passo per garantire che la tua organizzazione sia conforme alla Legge UE sull'IA.",
+  "doc_compliance_checklist_button": "Scarica Lista di Controllo",
+  
+  "doc_timeline_title": "Cronologia di Implementazione",
+  "doc_timeline_description": "Date e scadenze chiave per l'implementazione della Legge UE sull'IA.",
+  "doc_timeline_button": "Visualizza Cronologia",
+  
+  "doc_templates_title": "Modelli di Documentazione Tecnica",
+  "doc_templates_description": "Modelli per la documentazione tecnica richiesta per i sistemi di IA ad alto rischio.",
+  "doc_templates_button": "Accedi ai Modelli",
+  
+  "timeline_title": "Cronologia di Implementazione",
+  
+  "timeline_item_1_title": "Entrata in Vigore della Legge UE sull'IA",
+  "timeline_item_1_description": "La normativa diventa ufficialmente legge in tutta l'Unione Europea il 1° agosto 2024.",
+  
+  "timeline_item_2_title": "Prime Proibizioni Applicabili",
+  "timeline_item_2_description": "Il primo insieme di proibizioni sui sistemi di IA entra in vigore il 2 febbraio 2025.",
+  
+  "timeline_item_3_title": "Istituzione dell'Ufficio IA",
+  "timeline_item_3_description": "L'Ufficio IA dell'UE sarà istituito per supervisionare l'implementazione.",
+  
+  "timeline_item_4_title": "Implementazione Completa",
+  "timeline_item_4_description": "La maggior parte delle disposizioni della Legge UE sull'IA diventano pienamente applicabili il 2 agosto 2026.",
+  
+  "contribute_title": "Contribuire alla Guida sulla Legge UE sull'IA",
+  "contribute_description": "Aiuta a migliorare questa risorsa contribuendo con la tua esperienza, traduzioni o competenze tecniche.",
+  
+  "contribute_code_title": "Contributi al Codice",
+  "contribute_code_description": "Aiuta a migliorare la funzionalità, l'accessibilità e l'esperienza utente del sito web.",
+  "contribute_code_button": "Visualizza su GitHub",
+  
+  "contribute_content_title": "Contributi ai Contenuti",
+  "contribute_content_description": "Aiuta a garantire che le informazioni sulla Legge UE sull'IA siano accurate, complete e aggiornate.",
+  "contribute_content_button": "Invia Contenuti",
+  
+  "contribute_translation_title": "Contributi alle Traduzioni",
+  "contribute_translation_description": "Aiuta a rendere la Guida sulla Legge UE sull'IA accessibile in più lingue.",
+  "contribute_translation_button": "Guida alla Traduzione",
+  
+  "contribute_documentation_title": "Contributi alla Documentazione",
+  "contribute_documentation_description": "Aiuta a migliorare la documentazione e le guide del progetto.",
+  "contribute_documentation_button": "Guida alla Documentazione"
+}

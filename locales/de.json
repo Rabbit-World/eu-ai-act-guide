@@ -1,0 +1,93 @@
+{
+  "site_title": "EU-KI-Gesetz Leitfaden",
+  "site_description": "Verständnis der umfassenden KI-Regulierung Europas",
+  "nav_overview": "Überblick",
+  "nav_key_provisions": "Kernbestimmungen",
+  "nav_compliance": "Compliance",
+  "nav_resources": "Ressourcen",
+  "nav_contribute": "Mitwirken",
+  
+  "overview_title": "Überblick über das EU-KI-Gesetz",
+  "overview_description": "Das Gesetz über Künstliche Intelligenz der Europäischen Union ist der weltweit erste umfassende Rechtsrahmen für KI, der darauf abzielt, vertrauenswürdige KI zu fördern und gleichzeitig Grundrechte zu schützen.",
+  
+  "key_provisions_title": "Kernbestimmungen",
+  "key_provisions_description": "Erfahren Sie mehr über den risikobasierten Ansatz, verbotene Praktiken und Anforderungen für Hochrisiko-KI-Systeme.",
+  
+  "compliance_title": "Compliance-Richtlinien",
+  "compliance_description": "Verstehen Sie, was Ihre Organisation tun muss, um dem EU-KI-Gesetz zu entsprechen.",
+  
+  "resources_title": "Ressourcen",
+  "resources_description": "Zugang zu Werkzeugen, Checklisten und offizieller Dokumentation, um sich in der regulatorischen Landschaft zurechtzufinden.",
+  
+  "footer_copyright": "© 2025 EU-KI-Gesetz Leitfaden",
+  "footer_repository": "GitHub-Repository",
+  
+  "user_tab_end_user": "Für Endnutzer",
+  "user_tab_producer": "Für KI-Entwickler",
+  
+  "risk_assessment_title": "KI-Risikobewertungstool",
+  "risk_assessment_description": "Nutzen Sie dieses interaktive Tool, um das Risikoniveau Ihres KI-Systems gemäß dem EU-KI-Gesetz zu bewerten.",
+  
+  "risk_unacceptable_title": "Unannehmbares Risiko",
+  "risk_unacceptable_description": "KI-Systeme, die eine eindeutige Bedrohung für die Sicherheit, den Lebensunterhalt und die Rechte von Menschen darstellen.",
+  
+  "risk_high_title": "Hohes Risiko",
+  "risk_high_description": "KI-Systeme, die die Gesundheit, Sicherheit oder Grundrechte beeinträchtigen könnten.",
+  
+  "risk_limited_title": "Begrenztes Risiko",
+  "risk_limited_description": "KI-Systeme mit spezifischen Transparenzpflichten.",
+  
+  "risk_minimal_title": "Minimales Risiko",
+  "risk_minimal_description": "Alle anderen KI-Systeme, die frei entwickelt und genutzt werden können.",
+  
+  "learn_more_button": "Mehr erfahren",
+  
+  "doc_official_text_title": "Offizieller Text des EU-KI-Gesetzes",
+  "doc_official_text_description": "Zugang zum vollständigen Rechtstext des EU-KI-Gesetzes.",
+  "doc_official_text_button": "Dokument ansehen",
+  
+  "doc_compliance_checklist_title": "Compliance-Checkliste",
+  "doc_compliance_checklist_description": "Schritt-für-Schritt-Anleitung, um sicherzustellen, dass Ihre Organisation dem EU-KI-Gesetz entspricht.",
+  "doc_compliance_checklist_button": "Checkliste herunterladen",
+  
+  "doc_timeline_title": "Umsetzungszeitplan",
+  "doc_timeline_description": "Wichtige Termine und Fristen für die Umsetzung des EU-KI-Gesetzes.",
+  "doc_timeline_button": "Zeitplan ansehen",
+  
+  "doc_templates_title": "Vorlagen für technische Dokumentation",
+  "doc_templates_description": "Vorlagen für die technische Dokumentation, die für Hochrisiko-KI-Systeme erforderlich ist.",
+  "doc_templates_button": "Auf Vorlagen zugreifen",
+  
+  "timeline_title": "Umsetzungszeitplan",
+  
+  "timeline_item_1_title": "Inkrafttreten des EU-KI-Gesetzes",
+  "timeline_item_1_description": "Die Verordnung wird am 1. August 2024 in der gesamten Europäischen Union offiziell Gesetz.",
+  
+  "timeline_item_2_title": "Erste anwendbare Verbote",
+  "timeline_item_2_description": "Die ersten Verbote für KI-Systeme treten am 2. Februar 2025 in Kraft.",
+  
+  "timeline_item_3_title": "Einrichtung des KI-Büros",
+  "timeline_item_3_description": "Das KI-Büro der EU wird eingerichtet, um die Umsetzung zu überwachen.",
+  
+  "timeline_item_4_title": "Vollständige Umsetzung",
+  "timeline_item_4_description": "Die meisten Bestimmungen des EU-KI-Gesetzes werden am 2. August 2026 vollständig anwendbar.",
+  
+  "contribute_title": "Zum EU-KI-Gesetz Leitfaden beitragen",
+  "contribute_description": "Helfen Sie, diese Ressource zu verbessern, indem Sie Ihr Fachwissen, Übersetzungen oder technische Fähigkeiten einbringen.",
+  
+  "contribute_code_title": "Code-Beiträge",
+  "contribute_code_description": "Helfen Sie, die Funktionalität, Zugänglichkeit und Benutzerfreundlichkeit der Website zu verbessern.",
+  "contribute_code_button": "Auf GitHub ansehen",
+  
+  "contribute_content_title": "Inhaltliche Beiträge",
+  "contribute_content_description": "Helfen Sie sicherzustellen, dass die Informationen über das EU-KI-Gesetz genau, umfassend und aktuell sind.",
+  "contribute_content_button": "Inhalt einreichen",
+  
+  "contribute_translation_title": "Übersetzungsbeiträge",
+  "contribute_translation_description": "Helfen Sie, den EU-KI-Gesetz Leitfaden in mehr Sprachen zugänglich zu machen.",
+  "contribute_translation_button": "Übersetzungsleitfaden",
+  
+  "contribute_documentation_title": "Dokumentationsbeiträge",
+  "contribute_documentation_description": "Helfen Sie, die Projektdokumentation und Anleitungen zu verbessern.",
+  "contribute_documentation_button": "Dokumentationsleitfaden"
+}

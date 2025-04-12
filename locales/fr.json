@@ -1,0 +1,93 @@
+{
+  "site_title": "Guide sur la Loi Européenne sur l'IA",
+  "site_description": "Comprendre la réglementation européenne complète sur l'intelligence artificielle",
+  "nav_overview": "Aperçu",
+  "nav_key_provisions": "Dispositions Clés",
+  "nav_compliance": "Conformité",
+  "nav_resources": "Ressources",
+  "nav_contribute": "Contribuer",
+  
+  "overview_title": "Aperçu de la Loi Européenne sur l'IA",
+  "overview_description": "La Loi sur l'Intelligence Artificielle de l'Union Européenne est le premier cadre juridique complet au monde pour l'IA, visant à promouvoir une IA digne de confiance tout en protégeant les droits fondamentaux.",
+  
+  "key_provisions_title": "Dispositions Clés",
+  "key_provisions_description": "Découvrez l'approche basée sur les risques, les pratiques interdites et les exigences pour les systèmes d'IA à haut risque.",
+  
+  "compliance_title": "Directives de Conformité",
+  "compliance_description": "Comprenez ce que votre organisation doit faire pour se conformer à la Loi Européenne sur l'IA.",
+  
+  "resources_title": "Ressources",
+  "resources_description": "Accédez à des outils, des listes de contrôle et de la documentation officielle pour vous aider à naviguer dans le paysage réglementaire.",
+  
+  "footer_copyright": "© 2025 Guide sur la Loi Européenne sur l'IA",
+  "footer_repository": "Dépôt GitHub",
+  
+  "user_tab_end_user": "Pour Utilisateurs Finaux",
+  "user_tab_producer": "Pour Producteurs d'IA",
+  
+  "risk_assessment_title": "Outil d'Évaluation des Risques de l'IA",
+  "risk_assessment_description": "Utilisez cet outil interactif pour évaluer le niveau de risque de votre système d'IA selon la Loi Européenne sur l'IA.",
+  
+  "risk_unacceptable_title": "Risque Inacceptable",
+  "risk_unacceptable_description": "Systèmes d'IA qui présentent une menace claire pour la sécurité, les moyens de subsistance et les droits des personnes.",
+  
+  "risk_high_title": "Risque Élevé",
+  "risk_high_description": "Systèmes d'IA qui pourraient nuire à la santé, à la sécurité ou aux droits fondamentaux.",
+  
+  "risk_limited_title": "Risque Limité",
+  "risk_limited_description": "Systèmes d'IA avec des obligations spécifiques de transparence.",
+  
+  "risk_minimal_title": "Risque Minimal",
+  "risk_minimal_description": "Tous les autres systèmes d'IA qui peuvent être développés et utilisés librement.",
+  
+  "learn_more_button": "En Savoir Plus",
+  
+  "doc_official_text_title": "Texte Officiel de la Loi Européenne sur l'IA",
+  "doc_official_text_description": "Accédez au texte juridique complet de la Loi Européenne sur l'IA.",
+  "doc_official_text_button": "Voir le Document",
+  
+  "doc_compliance_checklist_title": "Liste de Contrôle de Conformité",
+  "doc_compliance_checklist_description": "Guide étape par étape pour garantir que votre organisation est conforme à la Loi Européenne sur l'IA.",
+  "doc_compliance_checklist_button": "Télécharger la Liste de Contrôle",
+  
+  "doc_timeline_title": "Calendrier de Mise en Œuvre",
+  "doc_timeline_description": "Dates et échéances clés pour la mise en œuvre de la Loi Européenne sur l'IA.",
+  "doc_timeline_button": "Voir le Calendrier",
+  
+  "doc_templates_title": "Modèles de Documentation Technique",
+  "doc_templates_description": "Modèles pour la documentation technique requise pour les systèmes d'IA à haut risque.",
+  "doc_templates_button": "Accéder aux Modèles",
+  
+  "timeline_title": "Calendrier de Mise en Œuvre",
+  
+  "timeline_item_1_title": "Entrée en Vigueur de la Loi Européenne sur l'IA",
+  "timeline_item_1_description": "La réglementation devient officiellement loi dans toute l'Union Européenne le 1er août 2024.",
+  
+  "timeline_item_2_title": "Premières Interdictions Applicables",
+  "timeline_item_2_description": "Le premier ensemble d'interdictions sur les systèmes d'IA entre en vigueur le 2 février 2025.",
+  
+  "timeline_item_3_title": "Établissement du Bureau de l'IA",
+  "timeline_item_3_description": "Le Bureau de l'IA de l'UE sera établi pour superviser la mise en œuvre.",
+  
+  "timeline_item_4_title": "Mise en Œuvre Complète",
+  "timeline_item_4_description": "La plupart des dispositions de la Loi Européenne sur l'IA deviennent pleinement applicables le 2 août 2026.",
+  
+  "contribute_title": "Contribuer au Guide sur la Loi Européenne sur l'IA",
+  "contribute_description": "Aidez à améliorer cette ressource en contribuant avec votre expertise, vos traductions ou vos compétences techniques.",
+  
+  "contribute_code_title": "Contributions au Code",
+  "contribute_code_description": "Aidez à améliorer la fonctionnalité, l'accessibilité et l'expérience utilisateur du site web.",
+  "contribute_code_button": "Voir sur GitHub",
+  
+  "contribute_content_title": "Contributions au Contenu",
+  "contribute_content_description": "Aidez à garantir que les informations sur la Loi Européenne sur l'IA sont précises, complètes et à jour.",
+  "contribute_content_button": "Soumettre du Contenu",
+  
+  "contribute_translation_title": "Contributions aux Traductions",
+  "contribute_translation_description": "Aidez à rendre le Guide sur la Loi Européenne sur l'IA accessible dans plus de langues.",
+  "contribute_translation_button": "Guide de Traduction",
+  
+  "contribute_documentation_title": "Contributions à la Documentation",
+  "contribute_documentation_description": "Aidez à améliorer la documentation et les guides du projet.",
+  "contribute_documentation_button": "Guide de Documentation"
+}
